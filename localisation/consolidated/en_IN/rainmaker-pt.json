@@ -4609,7 +4609,7 @@
     },
     {
         "code": "ES_PT.CREATE_APPROVE_UPDATE_SUCCESS",
-        "message": "Application Updated Successfully",
+        "message": "Application Approved Successfully",
         "module": "rainmaker-pt",
         "locale": "en_IN"
     },
@@ -18363,5 +18363,66 @@
         "message": "Dear {OWNER_NAME}, You have recently paid your property taxes in our portal with transaction ID {TRANSACTION_ID} We would like to hear your experience with us. Please take a moment to rate us to serve you better. {FeedbackURL} Thank you \n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "en_IN"
-    }
+    },
+	{
+        "code": "WF_PT.CREATE_SENDBACK",
+        "message": "SEND BACK",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_PT.CREATE_SENDBACK_UPDATE_SUCCESS",
+        "message": "Application is sent back to initiator successfully",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+	{
+        "code": "WF_EMPLOYEE_PT.CREATE_SENDBACK",
+        "message": "SEND BACK",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+	{
+        "code": "WF_PT_SAVE",
+        "message": "Save",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+	{
+        "code": "WF_EMPLOYEE_PT.CREATE_RequestPayment",
+        "message": "REQUEST PAYMENT",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+        },
+        {
+        "code": "WF_EMPLOYEE_PT.CREATE_SENDBACKTOCLERK",
+        "message": "SEND BACK",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+        },
+        {
+        "code": "WF_EMPLOYEE_PT.CREATE_RETURN",
+        "message": "RETURN",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+        },
+		{
+        "code": "WF_PT.MUTATION_PaymentRequested",
+        "message": "Payment Requested",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+        },
+		{
+            "code": "WF_PT.MUTATION_SENDEDBACKTOCLERK",
+            "message": "Sended Back To Clerk",
+            "module": "rainmaker-pt",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_PT.MUTATION_FIELDVERIFIED",
+            "message": "Pending For Approval",
+            "module": "rainmaker-pt",
+            "locale": "en_IN"
+        }
+
 ]

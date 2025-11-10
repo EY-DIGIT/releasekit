@@ -43044,12 +43044,6 @@
         "locale": "en_MZ"
     },
     {
-        "code": "WF_PT.MUTATION_FIELDVERIFIED",
-        "message": "Pending Payment",
-        "module": "rainmaker-common",
-        "locale": "en_MZ"
-    },
-    {
         "code": "WF_PT.MUTATION_OPEN",
         "message": "Property Mutation Open",
         "module": "rainmaker-common",

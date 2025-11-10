@@ -15403,7 +15403,7 @@
     },
     {
         "code": "DSS_ABOUT_PURPOSE_DEFINE",
-        "message": "The DIGIT National Urban Dashboard offers users a consolidated Decision Support System (DSS) tool with rich and interactive dashboards that provide a complete visualisation of the key metrics. It simplifies the data into more manageable chunks of visual information, that allow users to see areas of efficiency as well as areas of improvement.",
+        "message": "The National Urban Dashboard offers users a consolidated Decision Support System (DSS) tool with rich and interactive dashboards that provide a complete visualisation of the key metrics. It simplifies the data into more manageable chunks of visual information, that allow users to see areas of efficiency as well as areas of improvement.",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },

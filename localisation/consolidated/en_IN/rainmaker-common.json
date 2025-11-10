@@ -27214,5 +27214,17 @@
         "message": "What went good?",
         "module": "rainmaker-common",
         "locale": "en_IN"
+    },
+	{
+    "code": "CS_DOWNLOAD_RECEIPT",
+    "message": "Download Receipt",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+        "code": "TENANT_TENANTS_MP_INDORE",
+        "message": "Indore",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
     }
 ]
