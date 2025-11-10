@@ -16110,12 +16110,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "WF_PT.MUTATION_FIELDVERIFIED",
-        "message": "Pending Payment",
-        "module": "rainmaker-pt",
-        "locale": "en_IN"
-    },
-    {
         "code": "WF_PT.MUTATION_FORWARD",
         "message": "Forward",
         "module": "rainmaker-pt",
@@ -18414,7 +18408,7 @@
         },
 		{
             "code": "WF_PT.MUTATION_SENDEDBACKTOCLERK",
-            "message": "Sended Back To Clerk",
+            "message": "Sent Back To Clerk",
             "module": "rainmaker-pt",
             "locale": "en_IN"
         },
